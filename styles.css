@@ -1,5 +1,5 @@
 @media(max-width:800px){
-  #index{
+  .Menu>#index{
     font-size:9px;
   }
   .Head{
@@ -21,7 +21,7 @@
 
 }
 @media(min-width:800px){
-  #index{
+  .Menu>#index{
     font-size: 30px;
   }
   .Head{
