@@ -22,7 +22,7 @@
 }
 @media(min-width:800px){
   #index{
-    font-size:15.5px;
+    font-size: 30px;
   }
   .Head{
     font-size: 35px;
@@ -156,7 +156,6 @@ blockquote{
 }
 #index
 {
- font-size: 30px;
  font-family: Andika;
 }
 .row{
